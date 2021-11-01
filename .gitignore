@@ -1,0 +1,6 @@
+# Main configuration file
+defaults.yaml
+
+# Other stuff
+.DS_Store
+@*
