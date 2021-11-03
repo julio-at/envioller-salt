@@ -76,7 +76,7 @@ we're going to use the SaltStack transport layer.
 To deploy the packages, run:
 
 ```
-$ salt "my_beloved" state.sls envioller
+$ salt "my_gateway" state.sls envioller
 ```
 
 This formula will prepare the minion by creating all the necessary folders and
